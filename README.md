@@ -1,4 +1,9 @@
-# Database_analysis_project
+# Database_analysis_projects
 
 
-The repository contains a database project. There is a pdf file here - a data model created with MySQL. And a Json file related to database management and modification.
+The repository contains the database project (
+"Database Pandas and SQL")
+That is the SQL data model, and the dataframe created with Python and Pandas.
+
+
+In addition, the repository also includes projects related to the management or analysis of databases. The libraries that were used to create them are Pandas, NumPy, and Matplotlib
