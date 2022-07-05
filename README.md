@@ -1,4 +1,4 @@
-# Database_analysis_projects
+# Data_analysis_projects
 
 
 The repository contains the database project (
