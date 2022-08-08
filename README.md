@@ -1,9 +1,6 @@
 # Data_analysis_projects
 
 
-The repository contains the database project (
-"Database Pandas and SQL")
-That is the SQL data model, and the dataframe created with Python and Pandas.
+The repository contains my projects for data operations and their visualization using Python libraries for working on data frames.
 
-
-In addition, the repository also includes projects related to the management or analysis of databases. The libraries that were used to create them are Pandas, NumPy, and Matplotlib
+In addition, I also put here tasks performed in SQL. Such as a data model or searching for information from databases using SQL's queries
